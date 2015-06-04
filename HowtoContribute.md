@@ -1,0 +1,2 @@
+  * Die einfachste Option: Das Programm herunterladen, es versuchen zu installieren und es dann benutzen. Wenn euch bei der Dokumentation Unklarheiten auffallen, die Kommentarfunktion zu den Wiki Pages nutzen. Falls es mit dringenden Fragen verbunden ist, kann man mir einfach eine Email an andreas.neiser@gmail.com schreiben.
+  * Den Source Code runterladen per svn (hier die Checkout URL http://opdtab.googlecode.com/svn/trunk/OPDtab nutzen, nicht die, die unter Source angegeben ist) und selbst Code Änderungen als Patches per Email senden.
